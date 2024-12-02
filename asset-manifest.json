@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/architect-portfolio/static/css/main.25978767.css",
-    "main.js": "/architect-portfolio/static/js/main.1785e2f1.js",
+    "main.css": "/architect-portfolio/static/css/main.0e8e79a2.css",
+    "main.js": "/architect-portfolio/static/js/main.00ca1bfb.js",
     "static/js/453.3f78d617.chunk.js": "/architect-portfolio/static/js/453.3f78d617.chunk.js",
     "index.html": "/architect-portfolio/index.html",
-    "main.25978767.css.map": "/architect-portfolio/static/css/main.25978767.css.map",
-    "main.1785e2f1.js.map": "/architect-portfolio/static/js/main.1785e2f1.js.map",
+    "main.0e8e79a2.css.map": "/architect-portfolio/static/css/main.0e8e79a2.css.map",
+    "main.00ca1bfb.js.map": "/architect-portfolio/static/js/main.00ca1bfb.js.map",
     "453.3f78d617.chunk.js.map": "/architect-portfolio/static/js/453.3f78d617.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25978767.css",
-    "static/js/main.1785e2f1.js"
+    "static/css/main.0e8e79a2.css",
+    "static/js/main.00ca1bfb.js"
   ]
 }
